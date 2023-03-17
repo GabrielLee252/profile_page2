@@ -79,3 +79,81 @@ a {
     text-decoration: underline;
 }
 /* ------------------------------end user card------------------------ */
+
+.container{
+    display: flex;
+    padding: 20px;
+    gap: 60px;
+}
+
+.user{
+    height: 20px;
+}
+
+
+.col1{
+    flex: 2
+}
+
+.tod{
+    display: flex;
+    justify-content: space-between;
+}
+
+.phil{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.col2{
+    flex: 1;
+    border: solid black;
+}
+
+.col2-head{
+    border: solid black;
+    margin-bottom: 10px;
+}
+
+.user-col2{
+    height: 20px;
+}
+
+.name1{
+    display: flex;
+}
+
+.todd {
+    border: solid black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.phil {
+    display: flex;
+    justify-content: space-between;
+}
+
+.name-1{
+    display: flex;
+    gap: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.name-r{
+    height: 20px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.col2-head{
+    border: solid black;
+}
+
+.conn{
+    border-radius: 50%;
+    background-color: white;
+    border: solid;
+}
