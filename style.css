@@ -105,14 +105,26 @@ a {
     justify-content: space-between;
 }
 
+.edu{
+    border: solid;
+    
+}
+
 
 .col2{
     flex: 1;
+}
+
+.box1{
     border: solid black;
+    margin-bottom: 10px;
+}
+.box2{
+    border: solid black;
+    margin-bottom: 10px;
 }
 
 .col2-head{
-    border: solid black;
     margin-bottom: 10px;
 }
 
@@ -125,7 +137,7 @@ a {
 }
 
 .todd {
-    border: solid black;
+    /* border: solid black; */
     display: flex;
     justify-content: space-between;
 }
